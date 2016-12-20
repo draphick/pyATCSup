@@ -7,7 +7,7 @@
     - sys, getopt
 
 ### Usage
-Clone the repo and execute the python script by passing the URL of the item you wanted carted as an argument.  This will return to you the price of the item added to your cart.
+Clone the repo and execute the python script by passing the URL of the item you want carted as an argument.  This will return to you the price of the item added to your cart.
 
 ```
 
